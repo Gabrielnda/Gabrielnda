@@ -1,6 +1,6 @@
 # Olá, sou Gabriel Assis
 
-Profissional de TI, attuante em infraestrutura na equipe de Blue team, lidando diariamente com monitoramento contínuo, análise de logs em SIEM, triagem e investigação de e-mails suspeitos (phishing, spoofing e malware).
+Profissional de TI, faço parte da equipe de infraestrutura no campo de Blue team, lidando diariamente com monitoramento contínuo, análise de logs em SIEM, triagem e investigação de e-mails suspeitos (phishing, spoofing e malware).
 
 
 
